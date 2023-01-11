@@ -15,7 +15,7 @@ body {
 
 }
 
-#container {
+main {
     max-width: 480px;
     margin: 0 auto;
 
@@ -26,7 +26,6 @@ body {
     padding: 20px;
     margin: 0 1rem;
     border-radius: 40px;
-    box-shadow: 0.1em 0.1em 0.1em rgb(109, 102, 102);     
 }
 
 #card-qr-code img {
@@ -39,7 +38,7 @@ body {
     text-align: center;
 }
 
-#text h2 {
+#text h1 {
     color: hsl(218, 44%, 22%);
     
 }
